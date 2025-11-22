@@ -1,4 +1,4 @@
 # Informacje o członku zespołu
-Imię: 
-Nazwisko:
-Ulubiona technologia:
+Imię: Marcin
+Nazwisko: Wieczorkiewicz
+Ulubiona technologia: git
